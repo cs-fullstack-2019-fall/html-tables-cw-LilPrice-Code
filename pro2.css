@@ -1,0 +1,8 @@
+table{
+    border: black 3px solid;
+    width: 100%;
+    text-align: center;
+}
+td{
+    border: red 3px solid;
+}

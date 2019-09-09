@@ -1,0 +1,14 @@
+table{
+    border: black 1px solid;
+    text-align: center;
+}
+th{
+    border: black 1px solid;
+
+}
+td{
+    border: black 1px solid;
+}
+a{
+    color: blue;
+}
